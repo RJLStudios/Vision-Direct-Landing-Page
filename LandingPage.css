@@ -115,6 +115,10 @@ flex-direction: row;
         .Prescription-image {
          width: 100%;
         }
+
+        .Container {
+         width: 100vw;
+        }
 }
 
 .Prescription-Desc-Wrapper {
